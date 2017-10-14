@@ -14,7 +14,7 @@ Fast-forward to now - I've just finished my Master's degree in Computer Science,
 
 Yes, it's the same blinds timer and deal calculator app that you (may or may not) know and love, but it's now updated to play nicely with the latest version of iOS. More significantly, the look and feel of the app has been updated - the new blue colour scheme makes it much nicer to look at and use.
 
-So get onto the App Store and download PokerPlus now! And if you have no idea what this app does, I've copied the original description below. Enjoy!
+So [get onto the App Store and download PokerPlus now](https://itunes.apple.com/us/app/pokerplus-blinds-timer/id822857884)! And if you have no idea what this app does, I've copied the original description below. Enjoy!
 
 ![PokerPlus Blinds Structure Selection Screen]({{site.baseurl}}/assets/img/PokerPlusScreen1.png){:height="30%" width="30%"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 ![PokerPlus Blinds Timer Screen]({{site.baseurl}}/assets/img/PokerPlusScreen2.png){:height="30%" width="30%"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
