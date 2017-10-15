@@ -3,7 +3,7 @@ layout: post
 title: OrderEats - a new platform for ordering food
 date: 2017-10-12 13:36:20 +0100
 #description:
-img: OrderEatsLogo.png
+img: OrderEatsLogo.jpg
 tags: [Projects, Android]
 ---
 For my summer project at UCL, I chose to create a food ordering application for Android which was backed by an API written in Go, using a MySQL database. You're probably already wondering, "why do we need another food ordering service?" - after all, we already have Deliveroo, UberEats, JustEat, etc, etc. But I think there is a gap for a new type of service.
