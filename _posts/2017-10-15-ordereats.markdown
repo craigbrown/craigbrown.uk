@@ -8,7 +8,7 @@ tags: [Projects, Android]
 ---
 For my summer project at UCL, I chose to create a food ordering application for Android which was backed by an API written in Go, using a MySQL database. You're probably already wondering, "why do we need another food ordering service?" - after all, we already have Deliveroo, UberEats, JustEat, etc, etc. But I think there is a gap for a new type of service.
 
-![OrderEats Restaurant Selection Screen]({{site.baseurl}}/assets/img/OrderEatsScreen4.png){:height="30%" width="30%"}<br>
+![OrderEats Restaurant Selection Screen]({{site.baseurl}}/assets/img/OrderEatsScreen4.png)<br>
 **_The OrderEats order receiving tablet app for restaurants._**
 
 ## The state of the industry
