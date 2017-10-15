@@ -9,9 +9,7 @@ tags: [Projects, Android]
 For my summer project at UCL, I chose to create a food ordering application for Android which was backed by an API written in Go, using a MySQL database. You're probably already wondering, "why do we need another food ordering service?" - after all, we already have Deliveroo, UberEats, JustEat, etc, etc. But I think there is a gap for a new type of service.
 
 ![OrderEats Restaurant Selection Screen]({{site.baseurl}}/assets/img/OrderEatsScreen4.png)<br>
-<p style="text-align: center;">
 **_The OrderEats order receiving tablet app for restaurants._**
-</p>
 
 ## The state of the industry
 
@@ -30,9 +28,7 @@ There's no solution for small businesses that want an order-ahead app but can't 
 ![OrderEats Restaurant Selection Screen]({{site.baseurl}}/assets/img/OrderEatsScreen1.png){:height="30%" width="30%"}
 ![OrderEats Menu Screen]({{site.baseurl}}/assets/img/OrderEatsScreen2.png){:height="30%" width="30%"}
 ![OrderEats Order Screen]({{site.baseurl}}/assets/img/OrderEatsScreen3.png){:height="30%" width="30%"}<br>
-<p style="text-align: center;">
 **_The OrderEats smartphone app for customers. These images show the flow for a customer placing an order. The designs make heavy use of the Material Design framework, ensuring a familar and consistent user experience._**
-</p>
 
 OrderEats consists of two Android applications written in Java. One is a smartphone app that allows the customer to choose a nearby restaurant, browse their menu, and place an order. The other is a tablet app, provided to the restaurant to allow them to view incoming orders and respond to them.
 
