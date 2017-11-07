@@ -16,9 +16,9 @@ Yes, it's the same blinds timer and deal calculator app that you (may or may not
 
 So [get onto the App Store and download PokerPlus now](https://itunes.apple.com/us/app/pokerplus-blinds-timer/id822857884)! And if you have no idea what this app does, I've copied the original description below. Enjoy!
 
-![PokerPlus Blinds Structure Selection Screen]({{site.baseurl}}/assets/img/PokerPlusScreen1.png){:height="30%" width="30%"} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![PokerPlus Blinds Timer Screen]({{site.baseurl}}/assets/img/PokerPlusScreen2.png){:height="30%" width="30%"}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-![PokerPlus Blinds Structure Creation Screen]({{site.baseurl}}/assets/img/PokerPlusScreen3.png){:height="30%" width="30%"}
+<div class="img-container">
+<img src="/assets/img/PokerPlusScreens.png">
+</div>
 
 ## What is PokerPlus?
 

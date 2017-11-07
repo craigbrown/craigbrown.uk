@@ -12,33 +12,35 @@ I partnered with two students from other courses, one of whom suggested the idea
 
 The initial idea for our app was to connect students needing help with older students, trained in peer support, who perhaps had already gone through some of those issues. Over the course of the three month module, we conducted various interviews with both professionals and potential users, and learnt a lot, helping us refine our idea. For example, we learnt that students were strongly opposed to receving support purely through an app. Instead, we would use the app to arrange meetings, and work with the university to create safe spaces for those students to meet. We were also very pleased with the feedback from UCL's student psychological service, who were enthusiastic about our idea.
 
-<div style="text-align:center;margin:50px 0;">
-<img style="max-width:100%;max-height:500px;margin-left:auto;margin-right:auto;display:block;" src="/assets/img/befriend-mentors.png">
-<span style="font-weight:bold;font-style:italic;">The app would allow students to find a suitable mentor, and to contact them to arrange a peer support session.</span>
+<div class="img-container">
+<img src="/assets/img/befriend-mentors.png">
+<span class="caption">The app would allow students to find a suitable mentor, and to contact them to arrange a peer support session.</span>
 </div>
 
 We diversified the app by adding in other features. One such feature was "ReMinders", which would send push notifications to the user each day reminding them to do things like "stay hydrated", "talk to friends", and other actions proven to make people feel happier. Eventually, the app could become a platform for other services, like private therapists or sellers of self-help books, who would want to reach these types of users.
 
 The service would make money by selling a license to the university at a fixed cost for each student. Students would be automatically registered - it was thought this was the best way of making sure they actually used the app.
 
-<div style="text-align:center;margin:50px 0;">
-<img style="max-width:100%;max-height:500px;margin-left:auto;margin-right:auto;display:block;" src="/assets/img/befriend-reminder.png">
-<span style="font-weight:bold;font-style:italic;">One additional feature was a simple push notification service with helpful self-care tips.</span>
+<div class="img-container">
+<img src="/assets/img/befriend-reminder.png">
+<span class="caption">One additional feature was a simple push notification service with helpful self-care tips.</span>
 </div>
 
 As the only CS student in the group, I was in charge of making the mockup of the app and also creating a website and video which explained the idea. I designed several screens of the app using the Interface Builder in Xcode. I decided this was the easiest option since I had some experience with Interface Builder, although if I had to do it again now I would probably use Sketch instead. I'll be the first to say I'm no designer, but I don't think I did a bad job. You can see some of the screens I designed on this page.
 
-<div style="text-align:center;margin:50px 0;">
-<img style="max-width:100%;max-height:500px;margin-left:auto;margin-right:auto;display:block;" src="/assets/img/befriend-website.png">
-<span style="font-weight:bold;font-style:italic;">The promotional website for befriend.</span>
+<div class="img-container">
+<img src="/assets/img/befriend-website.png">
+<span class="caption">The promotional website for befriend.</span>
 </div>
 
 The website was a customised version of a single page template. The focus was on simplicity, highlighting the key features of the app and using bold colours and large images to make the page stand out. I just used plain HTML/CSS/JS, meaning I could host the page quite easily on GitHub. [You can see the website here](https://frakur.github.io/befriend-site/).
 
 The video is something I'm really quite proud of. I made it over the course of a weekend, starting by sketching out a storyboard of what it should look like, and then creating it using some Adobe software. The video takes the style of other startup promotional videos, using simple images and text with a voiceover and, of course, the obligatory ukelele music. The video received the highest possible mark.
 
+<div class="iframe-container">
 <iframe width="560" height="315" style="margin-left:auto;margin-right:auto;display:block;" src="https://www.youtube-nocookie.com/embed/GAi5nuB35f0?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
 
 The viability of the business was not easy to establish as we needed to know how much universities would be willing to pay, and the sort of data that would have helped us establish this (like existing software licensing deals and internal funding allocations) wasn't readily available. At a cost of £1 per student, which we thought was reasonable, we would be able to cover the costs of running the service for a single university and make a small profit. This would then be easy to scale to multiple universities in future.
 
-Overall we think we came up with a strong business idea which hadn't been tried before, and which had the potential to be of genuine value to society. We put a lot of time into researching and refining the idea and, fortunately, this was reflected in the grade we received. 
+Overall we think we came up with a strong business idea which hadn't been tried before, and which had the potential to be of genuine value to society. We put a lot of time into researching and refining the idea and, fortunately, this was reflected in the grade we received.
