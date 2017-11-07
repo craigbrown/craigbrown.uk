@@ -8,6 +8,8 @@ tags: [Projects]
 ---
 One of the optional modules I took at UCL this year was Entrepreneurship, where we had to form groups and come up with a business idea. This involved writing a formal business plan as well as coming up with the branding and ultimately deciding whether the business would be viable.
 
+## The idea
+
 I partnered with two students from other courses, one of whom suggested the idea of a mobile app which would provide mental health support to university students. We knew this was a problem that needed solving - just in UCL, our own university, the existing psychological services looked after [around 3,000 students in the 2015-16 academic year with just 13 clinicians](https://www.theguardian.com/education/2016/sep/23/university-mental-health-services-face-strain-as-demand-rises-50). This usually resulted in unacceptably long waits for students in need.
 
 The initial idea for our app was to connect students needing help with older students, trained in peer support, who perhaps had already gone through some of those issues. Over the course of the three month module, we conducted various interviews with both professionals and potential users, and learnt a lot, helping us refine our idea. For example, we learnt that students were strongly opposed to receving support purely through an app. Instead, we would use the app to arrange meetings, and work with the university to create safe spaces for those students to meet. We were also very pleased with the feedback from UCL's student psychological service, who were enthusiastic about our idea.
@@ -26,6 +28,8 @@ The service would make money by selling a license to the university at a fixed c
 <span class="caption">One additional feature was a simple push notification service with helpful self-care tips.</span>
 </div>
 
+## The technology role
+
 As the only CS student in the group, I was in charge of making the mockup of the app and also creating a website and video which explained the idea. I designed several screens of the app using the Interface Builder in Xcode. I decided this was the easiest option since I had some experience with Interface Builder, although if I had to do it again now I would probably use Sketch instead. I'll be the first to say I'm no designer, but I don't think I did a bad job. You can see some of the screens I designed on this page.
 
 <div class="img-container">
@@ -40,6 +44,8 @@ The video is something I'm really quite proud of. I made it over the course of a
 <div class="iframe-container">
 <iframe width="560" height="315" style="margin-left:auto;margin-right:auto;display:block;" src="https://www.youtube-nocookie.com/embed/GAi5nuB35f0?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
+
+## Conclusion
 
 The viability of the business was not easy to establish as we needed to know how much universities would be willing to pay, and the sort of data that would have helped us establish this (like existing software licensing deals and internal funding allocations) wasn't readily available. At a cost of £1 per student, which we thought was reasonable, we would be able to cover the costs of running the service for a single university and make a small profit. This would then be easy to scale to multiple universities in future.
 
