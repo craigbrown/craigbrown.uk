@@ -1,19 +1,17 @@
-title: craig24.com | Craig Brown
+title: craigbrown.uk | Craig's Blog
 description: > # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  The blog of Craig Brown, a London-based full-stack developer of C#, iOS and web technologies.
 permalink: ':title/'
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://frakur.github.io/craig24" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://craigbrown.uk" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Author Settings
 author: Craig Brown # add your name
 author-img: profile-sq.png # add your photo
-about-author: 27 year old developer from London. Just finished the MSc Computer Science at UCL. When not working on awesome apps, can usually be found binging on TV shows, fast food, and coffee. # add description
-twitter: CraigAB24 # add your Twitter handle
+about-author: Full-stack C#, iOS and web developer from London with an MSc in Computer Science from UCL. When not working on awesome apps, can usually be found binging on TV shows, fast food, and coffee. # add description
+#twitter: CraigAB24 # add your Twitter handle
 #facebook: # add your Facebook handle
-github: frakur # add your Github handle
+github: craigbrown # add your Github handle
 linkedin: craig24 # add your Linkedin handle
 #email: cb@craig24.com # add your Email address
 
